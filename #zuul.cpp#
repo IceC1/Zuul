@@ -1,0 +1,11 @@
+#include<iostream>
+#include"room.h"
+
+using namespace std;
+
+void main() {
+  vector<Room*> rs;
+  Room* current;
+  
+  
+}
